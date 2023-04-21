@@ -86,8 +86,12 @@ public class GT4500 implements SpaceShip {
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       case null:
         firingSuccess = null;
+=======
+    
+>>>>>>> branch-B
 =======
     
 >>>>>>> branch-B
